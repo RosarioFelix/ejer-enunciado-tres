@@ -15,15 +15,30 @@
 }
 .cancha-hijo div{
   border: solid 1px white;
-  width: 100px;
-  height: 150px;
+  position: absolute;
 }
 .arco-uno{
+  width: 100px;
+  height: 150px;
   top: 50px;
-  position: absolute;
 }
 .arco-dos{
+  width: 100px;
+  height: 150px;
   top: 50px;
   right: 0;
-  position: absolute;
+}
+.centro{
+  border-radius: 50px;
+  width: 100px;
+  height: 100px;
+  margin-left: 200px;
+  margin-top: 70px;
+}
+.pelota{
+  background-color: white;
+  border-radius: 5px;
+  width: 10px;
+  height: 10px;
+
 }
