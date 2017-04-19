@@ -1,0 +1,29 @@
+.cancha{
+  background-color:#8fb280;
+  width: 600px;
+  height: 350px;
+  margin: 50px 60px;
+}
+.cancha-hijo{
+  border: solid 1px white;
+  background-color:#8fb280;
+  width: 500px;
+  height: 250px;
+  position: relative;
+  margin: auto;
+  top: 45px;
+}
+.cancha-hijo div{
+  border: solid 1px white;
+  width: 100px;
+  height: 150px;
+}
+.arco-uno{
+  top: 50px;
+  position: absolute;
+}
+.arco-dos{
+  top: 50px;
+  right: 0;
+  position: absolute;
+}
